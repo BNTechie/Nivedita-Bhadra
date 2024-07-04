@@ -54,6 +54,9 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 [View Project](https://github.com/BhadraNivedita/Differential-gene-Expression-Analyses)
 
+- **View on GitHub**: [Differential Gene Expression Analyses and Pathway analyses.ipynb](https://github.com/BhadraNivedita/Differential-gene-Expression-Analyses)
+
+
 
 ---
 
