@@ -131,19 +131,15 @@ Welcome to my portfolio! This repository showcases my projects and work in data 
 
 ### Key Projects
 
-1. **[Machine_Learning_Resource](https://github.com/BhadraNivedita/Machine_Learning_Resource)**
-   - **Skills**: Machine learning, model training, feature engineering, scikit-learn, TensorFlow.
-   - **Description**: Curated resources for machine learning, including model training, feature engineering, and hyperparameter tuning.
-
-2. **[How-to-calculate-feature-importance-in-Python](https://github.com/BhadraNivedita/How-to-calculate-feature-importance-in-Python)**
+1. **[How-to-calculate-feature-importance-in-Python](https://github.com/BhadraNivedita/How-to-calculate-feature-importance-in-Python)**
    - **Skills**: Feature importance, machine learning, model interpretation.
    - **Description**: Demonstrated methods for calculating and interpreting feature importance in machine learning models.
 
-3. **[Sentiment-analyses-in-Python](https://github.com/BhadraNivedita/Sentiment-analyses-in-Python)**
+2. **[Sentiment-analyses-in-Python](https://github.com/BhadraNivedita/Sentiment-analyses-in-Python)**
    - **Skills**: Sentiment analysis, natural language processing (NLP), text mining.
    - **Description**: Conducted sentiment analysis on textual data using NLP techniques and visualized the results.
 
-4. **[Hypothesis-testing-for-comparing-machine-learning-models](https://github.com/BhadraNivedita/Hypothesis-testing-for-comparing-machine-learning-models)**
+3. **[Hypothesis-testing-for-comparing-machine-learning-models](https://github.com/BhadraNivedita/Hypothesis-testing-for-comparing-machine-learning-models)**
    - **Skills**: Hypothesis testing, model comparison, statistical analysis.
    - **Description**: Compared machine learning models using hypothesis testing to determine significant differences in performance.
 
