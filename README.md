@@ -52,7 +52,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 - Applied differential gene expression analysis using DESeq2.
 - Visualized results with heatmaps and volcano plots.
 
-[View Project]([https://github.com/BhadraNivedita/rna-seq-analysis](https://github.com/BhadraNivedita/Differential-gene-Expression-Analyses/))
+[View Project](https://github.com/BhadraNivedita/rna-seq-analysis](https://github.com/BhadraNivedita/Differential-gene-Expression-Analyses/)
 
 ---
 
