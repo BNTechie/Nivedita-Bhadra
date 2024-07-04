@@ -73,6 +73,83 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 [View Project](https://github.com/BhadraNivedita/clinical-trial-analysis)
 
+
+Welcome to my portfolio! This repository showcases my projects and work in data science, bioinformatics, and biostatistics. Here, you'll find detailed descriptions of my projects, the tools and technologies I used, and the results of my work.
+
+
+## Others
+
+## Table of Contents
+
+- [Bioinformatics](#bioinformatics)
+- [Biostatistics](#biostatistics)
+- [Data Science](#data-science)
+
+---
+
+## Bioinformatics
+
+### Key Projects
+
+1. **[scRNA-seq-data-with-Monocle](https://github.com/BhadraNivedita/scRNA-seq-data-with-Monocle)**
+   - **Skills**: Single-cell RNA sequencing (scRNA-seq) data analysis, trajectory analysis, pseudotime ordering.
+   - **Description**: Analyzed single-cell RNA-seq data using Monocle, performing trajectory analysis and pseudotime ordering to uncover developmental pathways.
+
+2. **[scRNA-seq-data-analysis-with-Seurat](https://github.com/BhadraNivedita/scRNA-seq-data-analysis-with-Seurat)**
+   - **Skills**: Data preprocessing, normalization, clustering, visualization using Seurat.
+   - **Description**: Conducted comprehensive analysis of single-cell RNA sequencing data with Seurat, including preprocessing, clustering, and visualization.
+
+3. **[scRNA-seq-data-analysis-with-slingshot](https://github.com/BhadraNivedita/scRNA-seq-data-analysis-with-slingshot)**
+   - **Skills**: Integration of Slingshot with Seurat, trajectory analysis, single-cell data preprocessing.
+   - **Description**: Performed trajectory analysis on single-cell RNA sequencing data by integrating Slingshot with Seurat.
+
+4. **[Creating-Manhattan-Plots](https://github.com/BhadraNivedita/Creating-Manhattan-Plots)**
+   - **Skills**: Visualization, genome-wide association study (GWAS), Manhattan plots.
+   - **Description**: Created Manhattan plots for GWAS data to visualize genetic variants associated with traits.
+
+---
+
+## Biostatistics
+
+### Key Projects
+
+1. **[Statistical-power-and-sample-size-calculation-in-R](https://github.com/BhadraNivedita/Statistical-power-and-sample-size-calculation-in-R-)**
+   - **Skills**: Power analysis, sample size calculation, statistical study design.
+   - **Description**: Performed statistical power and sample size calculations to ensure robust study design.
+
+2. **[Multicollinearity-with-example-in-R](https://github.com/BhadraNivedita/Multicollinearity-with-example-in-R)**
+   - **Skills**: Regression analysis, multicollinearity diagnostics, variance inflation factors (VIFs).
+   - **Description**: Analyzed multicollinearity in regression models and calculated VIFs to assess predictor variables.
+
+3. **[Example-of-Linear-model-with-Random-effects-in-R](https://github.com/BhadraNivedita/Example-of-Linear-model-with-Random-effects-in-R)**
+   - **Skills**: Linear mixed models, random effects, statistical modeling.
+   - **Description**: Developed linear mixed models with random effects to account for hierarchical data structures.
+
+---
+
+## Data Science
+
+### Key Projects
+
+1. **[Machine_Learning_Resource](https://github.com/BhadraNivedita/Machine_Learning_Resource)**
+   - **Skills**: Machine learning, model training, feature engineering, scikit-learn, TensorFlow.
+   - **Description**: Curated resources for machine learning, including model training, feature engineering, and hyperparameter tuning.
+
+2. **[How-to-calculate-feature-importance-in-Python](https://github.com/BhadraNivedita/How-to-calculate-feature-importance-in-Python)**
+   - **Skills**: Feature importance, machine learning, model interpretation.
+   - **Description**: Demonstrated methods for calculating and interpreting feature importance in machine learning models.
+
+3. **[Sentiment-analyses-in-Python](https://github.com/BhadraNivedita/Sentiment-analyses-in-Python)**
+   - **Skills**: Sentiment analysis, natural language processing (NLP), text mining.
+   - **Description**: Conducted sentiment analysis on textual data using NLP techniques and visualized the results.
+
+4. **[Hypothesis-testing-for-comparing-machine-learning-models](https://github.com/BhadraNivedita/Hypothesis-testing-for-comparing-machine-learning-models)**
+   - **Skills**: Hypothesis testing, model comparison, statistical analysis.
+   - **Description**: Compared machine learning models using hypothesis testing to determine significant differences in performance.
+
+---
+
+
 ---
 
 ## Skills
