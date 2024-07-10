@@ -37,7 +37,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 - Utilized machine learning techniques such as neural networks and random forests.
 - Conducted data preprocessing, feature engineering, and model evaluation.
 
-[View Project](https://github.com/BhadraNivedita/clinical-outcomes-prediction)
+[View Project](https://github.com/BhadraNivedita/https://github.com/BhadraNivedita/Breast-cancer-prediction-with-machine-learning-model/blob/main/Breast%20cancer%20prediction%20with%20Machine%20Learning%20model.ipynb)
 
 ---
 
