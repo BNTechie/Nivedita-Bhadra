@@ -145,6 +145,10 @@ Welcome to my portfolio! This repository showcases my projects and work in data 
 
 ---
 
+## Data visualization
+
+View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization- 
+
 
 ---
 
