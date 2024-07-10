@@ -71,7 +71,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 - Conducted survival analysis using Kaplan-Meier curves and Cox proportional hazards models.
 - Collaborated with interdisciplinary teams to present findings.
 
-[View Project](https://github.com/BhadraNivedita/clinical-trial-analysis)
+[View Project](https://github.com/BhadraNivedita/Survival-analyses-in-R/blob/main/Survival_analysis_Cancer_Patient_data_Machine_learning_model.ipynb)
 
 
 Welcome to my portfolio! This repository showcases my projects and work in data science, bioinformatics, and biostatistics. Here, you'll find detailed descriptions of my projects, the tools and technologies I used, and the results of my work.
