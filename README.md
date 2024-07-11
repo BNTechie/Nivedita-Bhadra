@@ -156,6 +156,10 @@ Welcome to my portfolio! This repository showcases my projects and work in data 
 
 View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization- 
 
+---
+
+## Natual Language projects (NLP)
+
 
 ---
 
