@@ -160,6 +160,7 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 ## Natual Language projects (NLP)
 
+[Yelp Review with NLP](https://github.com/BhadraNivedita/Yelp_review_using-NLP/blob/main/Yelp_review_rating_prediction_using_NLP.ipynb)
 
 ---
 
