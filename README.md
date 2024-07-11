@@ -49,6 +49,8 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 [Credit card fraud detection](https://github.com/BhadraNivedita/Credit-card-fraud-detection/blob/main/Credit_card_fraud_detection.ipynb)
 
+[Bank note authentication with ML algorithm(https://github.com/BhadraNivedita/Bank_note_authentication_check_implementing_ML_algorithm)
+
 ---
 
 ### RNA-Seq Data Analysis
