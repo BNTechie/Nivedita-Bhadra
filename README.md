@@ -183,6 +183,12 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 [Fake news detection with bidirectional LSTM model](https://github.com/BhadraNivedita/Fake-news-detection-in-Bidirectional-LSTM/blob/main/BiLSTM_fake_news_detection.ipynb)
 
+
+---
+## Time series forecasting
+
+[Timeseries forecasting with autoregressive model])(https://github.com/BhadraNivedita/Timeseries-forecasting-implementing-Vector-Autoregressive-model/blob/main/Vector%20Autoregression%20model%20for%20forecasting%20Wage%20Growth%20and%20the%20Inflation%20Process.ipynb)
+
 ---
 
 ## Skills
