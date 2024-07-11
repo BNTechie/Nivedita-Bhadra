@@ -42,7 +42,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 [Breat cancer prediction with Machine learning model](https://github.com/BhadraNivedita/Breast-cancer-prediction-with-machine-learning-model/blob/main/Breast%20cancer%20prediction%20with%20Machine%20Learning%20model.ipynb)
 
-[Prediction social influence from twitter activity](https://github.com/BhadraNivedita/Predicting-Social-Influence-from-twitter-activity)
+[Prediction of social influence from twitter activity](https://github.com/BhadraNivedita/Predicting-Social-Influence-from-twitter-activity)
 
 
 [Digit classification with SVM](https://github.com/BhadraNivedita/Image-classification-with-SVM-Classifier/blob/main/Image_classification_with_SVM.ipynb)
