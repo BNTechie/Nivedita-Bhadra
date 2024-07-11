@@ -44,6 +44,9 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 [Prediction social influence from twitter activity](https://github.com/BhadraNivedita/Predicting-Social-Influence-from-twitter-activity)
 
+
+[Digit classification with SVM](https://github.com/BhadraNivedita/Image-classification-with-SVM-Classifier/blob/main/Image_classification_with_SVM.ipynb)
+
 ---
 
 ### RNA-Seq Data Analysis
@@ -165,6 +168,12 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 [Personality prediction with NLP](https://github.com/BhadraNivedita/Natural_Language_Procession_Project-Personality-prediction-using-NLP/blob/main/(MBTI)%20Myers-Briggs%20Personality%20Type%20Dataset%20analysis.ipynb)
 
 [Text classification from movie review](https://github.com/BhadraNivedita/Text-classification-from-movie-review-using-NLP/blob/main/Text_classification_from_movie_review_using_NLP.ipynb)
+
+---
+
+## Image classification with CNN
+
+
 
 ---
 
