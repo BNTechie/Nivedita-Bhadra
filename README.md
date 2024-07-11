@@ -17,7 +17,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 ## Table of Contents
 
 - [Projects](#projects)
-  - [Predictive Modeling for Clinical Outcomes](#predictive-modeling-for-clinical-outcomes)
+  - [Predictive Modeling for Clinical Outcomes](#predictive-modeling)
   - [RNA-Seq Data Analysis](#rna-seq-data-analysis)
   - [Clinical Trial Data Analysis](#clinical-trial-data-analysis)
 - [Skills](#skills)
@@ -26,7 +26,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 ## Projects
 
-### Predictive Modeling for Clinical Outcomes
+### Predictive Modeling
 
 **Description**: Developed AI models to predict clinical outcomes based on genomic data, significantly improving clinical decision-making processes.
 
