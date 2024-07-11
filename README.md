@@ -177,6 +177,10 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 ---
 
+## RNN
+
+---
+
 ## Skills
 
 **Programming Languages**: Python, R, SQL
