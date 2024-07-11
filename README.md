@@ -71,7 +71,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 - Conducted survival analysis using Kaplan-Meier curves and Cox proportional hazards models.
 - Collaborated with interdisciplinary teams to present findings.
 
-[Survival Analysis](https://github.com/BhadraNivedita/Survival-analyses-in R/blob/main/Survival_analysis_Cancer_Patient_data_Machine_learning_model.ipynb)
+[Survival Analysis]()
 
 [Cure model in survival analysis](https://github.com/BhadraNivedita/Cure-model-in-Survival-analysis)
 
