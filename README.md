@@ -187,7 +187,7 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ---
 ## Time series forecasting
 
-[Timeseries forecasting with autoregressive model])(https://github.com/BhadraNivedita/Timeseries-forecasting-implementing-Vector-Autoregressive-model/blob/main/Vector%20Autoregression%20model%20for%20forecasting%20Wage%20Growth%20and%20the%20Inflation%20Process.ipynb)
+[Timeseries forecasting with autoregressive model](https://github.com/BhadraNivedita/Timeseries-forecasting-implementing-Vector-Autoregressive-model/blob/main/Vector%20Autoregression%20model%20for%20forecasting%20Wage%20Growth%20and%20the%20Inflation%20Process.ipynb)
 
 ---
 
