@@ -161,7 +161,8 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ## Natual Language projects (NLP)
 
 [Yelp Review with NLP](https://github.com/BhadraNivedita/Yelp_review_using-NLP/blob/main/Yelp_review_rating_prediction_using_NLP.ipynb)
-[Personality prediction with NLP](https://github.com/BhadraNivedita/Natural_Language_Procession_Project-Personality-prediction-using-NLP/blob/main/(MBTI)%20Myers-Briggs%20Personality%20Type%20Dataset%20analysis.ipynb)
+
+[Personality prediction with NLP] (https://github.com/BhadraNivedita/Natural_Language_Procession_Project-Personality-prediction-using-NLP/blob/main/(MBTI)%20Myers-Briggs%20Personality%20Type%20Dataset%20analysis.ipynb)
 ---
 
 ## Skills
