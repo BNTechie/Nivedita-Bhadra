@@ -169,7 +169,7 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 [Text classification from movie review](https://github.com/BhadraNivedita/Text-classification-from-movie-review-using-NLP/blob/main/Text_classification_from_movie_review_using_NLP.ipynb)
 
-[Fake news detection with bidirectional LSTM model](https://github.com/BhadraNivedita/Fake-news-detection-in-Bidirectional-LSTM/blob/main/BiLSTM_fake_news_detection.ipynb)
+
 
 ---
 
@@ -180,6 +180,8 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ---
 
 ## RNN
+
+[Fake news detection with bidirectional LSTM model](https://github.com/BhadraNivedita/Fake-news-detection-in-Bidirectional-LSTM/blob/main/BiLSTM_fake_news_detection.ipynb)
 
 ---
 
