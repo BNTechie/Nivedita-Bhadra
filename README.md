@@ -47,6 +47,8 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 
 [Digit classification with SVM](https://github.com/BhadraNivedita/Image-classification-with-SVM-Classifier/blob/main/Image_classification_with_SVM.ipynb)
 
+[Credit card fraud detection](https://github.com/BhadraNivedita/Credit-card-fraud-detection/blob/main/Credit_card_fraud_detection.ipynb)
+
 ---
 
 ### RNA-Seq Data Analysis
