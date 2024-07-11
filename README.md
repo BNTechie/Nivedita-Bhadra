@@ -164,6 +164,8 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 [Personality prediction with NLP](https://github.com/BhadraNivedita/Natural_Language_Procession_Project-Personality-prediction-using-NLP/blob/main/(MBTI)%20Myers-Briggs%20Personality%20Type%20Dataset%20analysis.ipynb)
 
+[Text classification from movie review](https://github.com/BhadraNivedita/Text-classification-from-movie-review-using-NLP/blob/main/Text_classification_from_movie_review_using_NLP.ipynb)
+
 ---
 
 ## Skills
