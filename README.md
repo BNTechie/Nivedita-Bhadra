@@ -193,6 +193,8 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 [Timeseries forecasting with autoregressive model](https://github.com/BhadraNivedita/Timeseries-forecasting-implementing-Vector-Autoregressive-model/blob/main/Vector%20Autoregression%20model%20for%20forecasting%20Wage%20Growth%20and%20the%20Inflation%20Process.ipynb)
 
+[Forecasting monthly sales with LSTM model](https://github.com/BhadraNivedita/Forecasting-the-monthly-sales-with-LSTM/blob/main/Forecasting%20monthly%20sales%20with%20BiLSTM%20model.ipynb)
+
 ---
 
 ## Skills
