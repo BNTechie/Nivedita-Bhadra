@@ -179,7 +179,7 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 
 ## Image classification with CNN
 
-
+[CIFAR10 data classification with PyTorch](https://github.com/BhadraNivedita/CIFAR10-data-classification-using-pytorch/blob/main/CIFAR10_data_classification_using_Pytorch.ipynb)
 
 ---
 
@@ -198,10 +198,10 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ---
 ## Recommendation Engine
 
-[Recommendation engine] (https://github.com/BhadraNivedita/Movie-Recommendation-Engine)
+(https://github.com/BhadraNivedita/Movie-Recommendation-Engine)
+
+
 ---
-
-
 ## Skills
 
 **Programming Languages**: Python, R, SQL
