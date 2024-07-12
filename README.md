@@ -198,7 +198,7 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ---
 ## Recommendation Engine
 
-(https://github.com/BhadraNivedita/Movie-Recommendation-Engine)
+[Recommendation Engine](https://github.com/BhadraNivedita/Movie-Recommendation-Engine)
 
 
 ---
