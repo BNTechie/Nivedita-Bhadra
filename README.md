@@ -196,6 +196,11 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 [Forecasting monthly sales with LSTM model](https://github.com/BhadraNivedita/Forecasting-the-monthly-sales-with-LSTM/blob/main/Forecasting%20monthly%20sales%20with%20BiLSTM%20model.ipynb)
 
 ---
+## Recommendation Engine
+
+[Recommendation engine] (https://github.com/BhadraNivedita/Movie-Recommendation-Engine)
+---
+
 
 ## Skills
 
