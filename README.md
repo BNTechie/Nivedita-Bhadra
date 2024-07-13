@@ -1,8 +1,5 @@
 # Data Scientist 
 
-
-# Nivedita Bhadra - Data Science Portfolio
-
 Welcome to my data science portfolio! This repository showcases my projects and work in data science, machine learning, bioinformatics, and biostatistics. Here, you'll find detailed descriptions of my projects, the tools and technologies I used, and the results of my work.
 
 ## About Me
