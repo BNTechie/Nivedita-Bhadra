@@ -224,7 +224,7 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ## Publications
 
 1. **Single-Cell Patch-Clamp/Proteomics of Human Alzheimer's Disease iPSC-Derived Excitatory Neurons Versus Isogenic Wild-Type Controls Suggests Novel Causation and Therapeutic Targets**
-   - **Journal**: [Advanced Science, 2024] (https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400545)
+   - **Journal**: [Advanced Science, 2024](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400545)
    - **Authors**: Swagata Ghatak, Jolene K. Diedrich, Maria Talantova, **Nivedita Bhadra**, Henry Scott, Meetal Sharma, Matthew Albertolle, Nicholas J. Schork, John R. Yates III, Stuart A. Lipton
 
 
