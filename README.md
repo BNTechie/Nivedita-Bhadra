@@ -224,16 +224,16 @@ View in Jupyter Notebook: https://github.com/BhadraNivedita/Data-visualization-
 ## Publications
 
 1. **Single-Cell Patch-Clamp/Proteomics of Human Alzheimer's Disease iPSC-Derived Excitatory Neurons Versus Isogenic Wild-Type Controls Suggests Novel Causation and Therapeutic Targets**
-   - **Journal**: Advanced Science, 2024
+   - **Journal**: [Advanced Science, 2024] (https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400545)
    - **Authors**: Swagata Ghatak, Jolene K. Diedrich, Maria Talantova, **Nivedita Bhadra**, Henry Scott, Meetal Sharma, Matthew Albertolle, Nicholas J. Schork, John R. Yates III, Stuart A. Lipton
 
 
 2. **Multiclass Classification of Environmental Chemical Stimuli from Plant Electrophysiological Signals**
-   - **Journal**: PLoS One, 2023
+   - **Journal**: [PLoS One, 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400545)
    - **Authors**: Nivedita Bhadra, Dr. Shre Kumar Chatterjee, Saptarshi Das
 
 3. **A time-series analysis of blood-based biomarkers within a 25-year longitudinal dolphin cohort**
-   - **Journal**: PLoS Computational Biology, 2023
+   - **Journal**: [PLoS Computational Biology, 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202400545)
    - **Authors**: Aaditya V Rangan, Caroline C McGrouther, Nivedita Bhadra, et al.
 
 ---
