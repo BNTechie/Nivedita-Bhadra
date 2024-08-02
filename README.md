@@ -1,15 +1,16 @@
 # Data Scientist 
 
-Welcome to my data science portfolio! This repository showcases my projects and work in data science, machine learning, bioinformatics, and biostatistics. Here, you'll find detailed descriptions of my projects, the tools and technologies I used, and the results of my work.
+Welcome to my data science portfolio! This repository showcases my projects and works in data science, machine learning, biostatistics, and bioinformatics. Here, you'll find detailed descriptions of my projects, the tools and technologies I used, and the results of my work.
 
 ## About Me
 
-I am a dedicated Data Scientist with a PhD in Computational Physics and over five years of experience in applying statistical analysis and machine learning techniques to complex datasets. My expertise spans across data analysis, predictive modeling, and handling biological and clinical data.
+I am a dedicated Data Scientist with a PhD in Computational Physics and over five years of experience applying statistical analysis and machine learning techniques to complex datasets. My expertise spans data analysis, predictive modelling, and biological and clinical data handling.
 
 - **Location**: Espoo, Finland
 - **Email**: nivedita.home@gmail.com
 - **LinkedIn**: [Nivedita Bhadra](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)
 - **GitHub**: [BhadraNivedita](https://github.com/BhadraNivedita)
+- **Medium**:[Medium Article](https://medium.com/@nivedita.home)
 
 ## Table of Contents
 
