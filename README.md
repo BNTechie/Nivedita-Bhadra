@@ -10,7 +10,7 @@ I am a dedicated Data Scientist with a PhD in Computational Physics and over fiv
 - **Email**: nivedita.home@gmail.com
 - **LinkedIn**: [Nivedita Bhadra](https://www.linkedin.com/in/nivedita-bhadra-ph-d-b5149130/)
 - **GitHub**: [BhadraNivedita](https://github.com/BhadraNivedita)
-- **Medium**:[Medium Article](https://medium.com/@nivedita.home)
+- **Medium**: [Medium Article](https://medium.com/@nivedita.home)
 
 ## Table of Contents
 
